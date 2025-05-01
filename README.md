@@ -1,6 +1,6 @@
-- TijmenDev / Tijmen / TTVgamer
-- I’m a developer interested in Minecraft
-- I hope to learn Java sometime 🙄
+- Tijmen / Toimun (formerly TTVgamer)
+- I’m a graphic designer with some coding experience
+- Industrial Design student
 
 <!---
 TijmenDev/TijmenDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
